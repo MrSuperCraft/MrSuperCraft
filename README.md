@@ -18,11 +18,10 @@
 </div>
 
 ### :fire: My Stats:
-<div>
-https://github-readme-streak-stats.herokuapp.com/?user=MrSuperCraft
-</div>
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSuperCraft&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+https://github-readme-streak-stats.herokuapp.com/?user=MrSuperCraft
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSuperCraft&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
