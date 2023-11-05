@@ -1,10 +1,10 @@
 ### Hi there, I'm MrSuperCraft. Nice to meet you~ 👋
 
 - 👨‍💻 I am a frontend programmer from Israel.
-- 🔭 I’m currently working on my graduation project called LinkserV.
+- 🔗 I’m currently working on my graduation project called LinkserV.
 - 🌱 I’m currently learning HTML, CSS, SQL, Expressjs, API's and more!
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm also a musician :D
+- 🎵 Fun fact: I'm also a producer & musician :D
 
 
 ### 🛠 Languages & Tools: 
@@ -20,7 +20,7 @@
 ### :fire: My Stats:
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=MrSuperCraft
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrSuperCraft&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSuperCraft&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
