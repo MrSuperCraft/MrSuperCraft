@@ -1,8 +1,8 @@
 ### Hi there, I'm MrSuperCraft. Nice to meet you~ 👋
 
 - 👨‍💻 I am a web developer & designer from Israel.
-- 🔗 I’m currently working on my graduation project called LinkserV.
-- 📚 I’m currently learning React & Astro.
+- ✅ I am currently working on TaskJourney, a new website to transform productivity and time management.
+- 📚 I’m currently learning Next, React, TypeScript and Firebase as tools for more advanced web development.
 - 😄 Pronouns: He / Him
 
 
