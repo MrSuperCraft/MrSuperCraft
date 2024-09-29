@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/itamarhanan" target="blank"><img src="https://img.shields.io/twitter/follow/itamarhanan?logo=twitter&style=for-the-badge" alt="itamarhanan" /></a> </p>
 
-- 🔭 I’m currently working on [CodeLib](https://codelib-mrsupercraft.vercel.app)
-
+- 🔭 I’m currently working on **Portfolio Projects** and more.
+ 
 - 🌱 I’m currently learning **Frameworks, DevOps, AWS and advanced TypeScript concepts.**
 
 - 🤝 I’m looking to collaborate on **Next.js / React website projects & more.**
