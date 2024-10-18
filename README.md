@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking to collaborate on **Next.js / React website projects & more.**
 
-- 👨‍💻 All of my projects are available at [https://itamar-hanan.web.app/projects](https://itamar-hanan.web.app/projects)
+- 👨‍💻 All of my projects are available [here](https://itamar-hanan.web.app/projects).
 
 - 💬 Ask me about **React, Next.js, Web Development, UI/UX Design & JavaScript.**
 
 - 📫 How to reach me **itamarhanandev@gmail.com**
 
-- 📄 Know about my experiences [https://itamar-hanan.web.app/Itamar%20Hanan%20-%20Resume.pdf](https://itamar-hanan.web.app/Itamar%20Hanan%20-%20Resume.pdf)
+- 📄 Know about my experiences -> [(Click to see my resume)](https://itamar-hanan.web.app/Itamar%20Hanan%20-%20Resume.pdf)
 
 - ⚡ Fun fact: **I'm also a music producer.**
 
