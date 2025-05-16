@@ -17,10 +17,6 @@
 
 - 💬 Ask me about **React, Next.js, Web Development, UI/UX Design & JavaScript.**
 
-- 📫 How to reach me **itamarhanandev@gmail.com**
-
-- 📄 Know about my experiences -> [(Click to see my resume)](https://itamar-hanan.web.app/Itamar%20Hanan%20-%20Resume.pdf)
-
 - ⚡ Fun fact: **I'm also a music producer.**
 
 <h3 align="left">Connect with me:</h3>
